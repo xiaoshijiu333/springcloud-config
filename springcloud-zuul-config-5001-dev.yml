@@ -2,8 +2,8 @@
 zuul:
   routes:
     fei:
-      path: /static/**
-      url: http://www.baidu.com
+      path: /fortest/**
+      url: http://www.taobao.com
     yu:
       path: /fei/**
-      serviceId: http://www.taobao.com/
+      serviceId: http://www.baidu.com
