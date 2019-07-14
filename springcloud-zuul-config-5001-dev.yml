@@ -5,5 +5,5 @@ zuul:
       path: /fortest/**
       url: http://www.taobao.com
     yu:
-      path: /fei/**
+      path: /yu/**
       serviceId: http://www.baidu.com
