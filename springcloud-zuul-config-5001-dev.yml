@@ -1,0 +1,9 @@
+# 远程加载网关转发配置
+zuul:
+  routes:
+    fei:
+      path: /static/**
+      url: http://www.baidu.com
+    yu:
+      path: /fei/**
+      serviceId: http://www.taobao.com/
